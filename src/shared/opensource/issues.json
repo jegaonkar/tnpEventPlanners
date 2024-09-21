@@ -1,0 +1,389 @@
+{
+  "closed": 16,
+  "data": [
+    {
+      "id": "I_kwDOKhZsK850YmzH",
+      "closed": true,
+      "title": "Broken links in Event trigger",
+      "createdAt": "2023-10-19T16:02:47Z",
+      "url": "https://github.com/triggerdotdev/api-reference/issues/9",
+      "number": 9,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "api-reference",
+        "url": "https://github.com/triggerdotdev/api-reference",
+        "owner": {
+          "login": "triggerdotdev",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/95297378?v=4",
+          "url": "https://github.com/triggerdotdev"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIiC6Ac50BRCK",
+      "closed": true,
+      "title": "feat: changing getting help icons",
+      "createdAt": "2023-10-17T03:57:52Z",
+      "url": "https://github.com/triggerdotdev/trigger.dev/issues/632",
+      "number": 632,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "trigger.dev",
+        "url": "https://github.com/triggerdotdev/trigger.dev",
+        "owner": {
+          "login": "triggerdotdev",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/95297378?v=4",
+          "url": "https://github.com/triggerdotdev"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIiC6Ac50BNw6",
+      "closed": true,
+      "title": "feat: adding icons to the frameworks section in docs",
+      "createdAt": "2023-10-17T03:41:08Z",
+      "url": "https://github.com/triggerdotdev/trigger.dev/issues/631",
+      "number": 631,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "trigger.dev",
+        "url": "https://github.com/triggerdotdev/trigger.dev",
+        "owner": {
+          "login": "triggerdotdev",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/95297378?v=4",
+          "url": "https://github.com/triggerdotdev"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOKCIQuM5z-yIS",
+      "closed": true,
+      "title": "link broken in Faq section",
+      "createdAt": "2023-10-16T18:25:00Z",
+      "url": "https://github.com/novuhq/docs/issues/250",
+      "number": 250,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/82649533?u=7b6d71cf9a3dbe7e48c0e7f9cbb5b8ef18b57d9b&v=4",
+            "name": "Digvijay Shelar",
+            "url": "https://github.com/shelar1423"
+          }
+        ]
+      },
+      "repository": {
+        "name": "docs",
+        "url": "https://github.com/novuhq/docs",
+        "owner": {
+          "login": "novuhq",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/77433905?v=4",
+          "url": "https://github.com/novuhq"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOKCIQuM5z8G25",
+      "closed": true,
+      "title": "ICONS MISSING IN SIDE BAR",
+      "createdAt": "2023-10-16T12:45:20Z",
+      "url": "https://github.com/novuhq/docs/issues/246",
+      "number": 246,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/82649533?u=7b6d71cf9a3dbe7e48c0e7f9cbb5b8ef18b57d9b&v=4",
+            "name": "Digvijay Shelar",
+            "url": "https://github.com/shelar1423"
+          }
+        ]
+      },
+      "repository": {
+        "name": "docs",
+        "url": "https://github.com/novuhq/docs",
+        "owner": {
+          "login": "novuhq",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/77433905?v=4",
+          "url": "https://github.com/novuhq"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJE5WtM5z7uR1",
+      "closed": false,
+      "title": "README LABELS INCLUSION .",
+      "createdAt": "2023-10-16T11:53:08Z",
+      "url": "https://github.com/novuhq/novu-kotlin/issues/52",
+      "number": 52,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "novu-kotlin",
+        "url": "https://github.com/novuhq/novu-kotlin",
+        "owner": {
+          "login": "novuhq",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/77433905?v=4",
+          "url": "https://github.com/novuhq"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOKCIQuM5z6chG",
+      "closed": true,
+      "title": "Updating new icons with better brand look and colors",
+      "createdAt": "2023-10-16T08:48:19Z",
+      "url": "https://github.com/novuhq/docs/issues/242",
+      "number": 242,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/82649533?u=7b6d71cf9a3dbe7e48c0e7f9cbb5b8ef18b57d9b&v=4",
+            "name": "Digvijay Shelar",
+            "url": "https://github.com/shelar1423"
+          }
+        ]
+      },
+      "repository": {
+        "name": "docs",
+        "url": "https://github.com/novuhq/docs",
+        "owner": {
+          "login": "novuhq",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/77433905?v=4",
+          "url": "https://github.com/novuhq"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOKCIQuM5z1DVX",
+      "closed": true,
+      "title": "Replacing Readme.md  links with Markdown badges",
+      "createdAt": "2023-10-14T14:07:39Z",
+      "url": "https://github.com/novuhq/docs/issues/237",
+      "number": 237,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "docs",
+        "url": "https://github.com/novuhq/docs",
+        "owner": {
+          "login": "novuhq",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/77433905?v=4",
+          "url": "https://github.com/novuhq"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHd0W985zPcbS",
+      "closed": true,
+      "title": "Feature: add license section to readme.md",
+      "createdAt": "2023-10-09T16:30:06Z",
+      "url": "https://github.com/open-sauced/app/issues/1835",
+      "number": 1835,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "app",
+        "url": "https://github.com/open-sauced/app",
+        "owner": {
+          "login": "open-sauced",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/57568598?v=4",
+          "url": "https://github.com/open-sauced"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIiC6Ac5zNpsO",
+      "closed": true,
+      "title": "feat: ADD LICENSE SECTION TO README.MD",
+      "createdAt": "2023-10-09T12:28:13Z",
+      "url": "https://github.com/triggerdotdev/trigger.dev/issues/587",
+      "number": 587,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "trigger.dev",
+        "url": "https://github.com/triggerdotdev/trigger.dev",
+        "owner": {
+          "login": "triggerdotdev",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/95297378?v=4",
+          "url": "https://github.com/triggerdotdev"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOCp1Ha85zJXA5",
+      "closed": true,
+      "title": "Remove PROMETHEUS.md and replace with link",
+      "createdAt": "2023-10-08T14:48:02Z",
+      "url": "https://github.com/opencost/opencost/issues/2202",
+      "number": 2202,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/82649533?u=7b6d71cf9a3dbe7e48c0e7f9cbb5b8ef18b57d9b&v=4",
+            "name": "Digvijay Shelar",
+            "url": "https://github.com/shelar1423"
+          }
+        ]
+      },
+      "repository": {
+        "name": "opencost",
+        "url": "https://github.com/opencost/opencost",
+        "owner": {
+          "login": "opencost",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/105945214?v=4",
+          "url": "https://github.com/opencost"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHd4cWM5zJPPT",
+      "closed": true,
+      "title": "Links not working in CONTRIBUTING.md",
+      "createdAt": "2023-10-08T13:14:27Z",
+      "url": "https://github.com/keyval-dev/odigos/issues/615",
+      "number": 615,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/82649533?u=7b6d71cf9a3dbe7e48c0e7f9cbb5b8ef18b57d9b&v=4",
+            "name": "Digvijay Shelar",
+            "url": "https://github.com/shelar1423"
+          }
+        ]
+      },
+      "repository": {
+        "name": "odigos",
+        "url": "https://github.com/keyval-dev/odigos",
+        "owner": {
+          "login": "keyval-dev",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/84347062?v=4",
+          "url": "https://github.com/keyval-dev"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOKTCX2s5zJCu8",
+      "closed": true,
+      "title": "No Contributing guidlines",
+      "createdAt": "2023-10-08T10:29:00Z",
+      "url": "https://github.com/docker/genai-stack/issues/28",
+      "number": 28,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "genai-stack",
+        "url": "https://github.com/docker/genai-stack",
+        "owner": {
+          "login": "docker",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/5429470?v=4",
+          "url": "https://github.com/docker"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOItIFvc5zIxGU",
+      "closed": true,
+      "title": "[DOCS] add social media icons in readme for visual appeal",
+      "createdAt": "2023-10-08T07:04:49Z",
+      "url": "https://github.com/rupali-codes/LinksHub/issues/1894",
+      "number": 1894,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/82649533?u=7b6d71cf9a3dbe7e48c0e7f9cbb5b8ef18b57d9b&v=4",
+            "name": "Digvijay Shelar",
+            "url": "https://github.com/shelar1423"
+          }
+        ]
+      },
+      "repository": {
+        "name": "LinksHub",
+        "url": "https://github.com/rupali-codes/LinksHub",
+        "owner": {
+          "login": "rupali-codes",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/78981177?u=feba4c7b7e765aa38eca1ad9447346570d3df139&v=4",
+          "url": "https://github.com/rupali-codes"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOCToKSM5yrya7",
+      "closed": true,
+      "title": "License.md not found",
+      "createdAt": "2023-10-03T12:51:09Z",
+      "url": "https://github.com/senthilrch/kube-fledged/issues/221",
+      "number": 221,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/24295410?u=3c6c2ce709d6dcdda952da1824e1f001f8da03cc&v=4",
+            "name": "Senthil Raja Chermapandian",
+            "url": "https://github.com/senthilrch"
+          }
+        ]
+      },
+      "repository": {
+        "name": "kube-fledged",
+        "url": "https://github.com/senthilrch/kube-fledged",
+        "owner": {
+          "login": "senthilrch",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/24295410?u=3c6c2ce709d6dcdda952da1824e1f001f8da03cc&v=4",
+          "url": "https://github.com/senthilrch"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOBJhljc5FECSE",
+      "closed": true,
+      "title": "Update the project to  GO 1.18",
+      "createdAt": "2022-03-03T17:19:38Z",
+      "url": "https://github.com/sodafoundation/api/issues/1323",
+      "number": 1323,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "api",
+        "url": "https://github.com/sodafoundation/api",
+        "owner": {
+          "login": "sodafoundation",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/56990927?v=4",
+          "url": "https://github.com/sodafoundation"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOBv0b685E7vfF",
+      "closed": true,
+      "title": "LINSTOR 12.3 ADMINISTRATION UNCLEAR ",
+      "createdAt": "2022-03-02T06:06:12Z",
+      "url": "https://github.com/LINBIT/linstor-server/issues/276",
+      "number": 276,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "linstor-server",
+        "url": "https://github.com/LINBIT/linstor-server",
+        "owner": {
+          "login": "LINBIT",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/6121896?v=4",
+          "url": "https://github.com/LINBIT"
+        }
+      }
+    }
+  ],
+  "open": 1,
+  "totalCount": 17
+}

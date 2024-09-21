@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "login": "milligram",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16243913?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "kubernetes",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13629408?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "opencost",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/105945214?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "ToolJet",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/82193554?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "containers",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5874934?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "illacloud",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/93245159?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "open-sauced",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/57568598?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "keyval-dev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/84347062?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "triggerdotdev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/95297378?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "arc53",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/103419759?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "novuhq",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/77433905?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "docker",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5429470?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "ArchGPT",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/139506573?v=4",
+      "__typename": "Organization"
+    }
+  ]
+}
