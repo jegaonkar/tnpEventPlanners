@@ -109,7 +109,7 @@ const skills = {
 
     {
       title: "Social Event Management Services",
-      fileName: "DesignImg",
+      fileName: "SocialEvent",
       skills: [
         "Event Flow Management",
         "Venue Selection and Booking",

@@ -7,7 +7,7 @@ export default class EducationImg extends Component {
       <>
         <img
           style={{ height: "80vh", width: "100vw" }}
-          src="https://i.pinimg.com/originals/cc/fd/89/ccfd89eb3d8ba44a7da3ee510d595beb.jpg"
+          src="https://www.partyplanetindia.com/images/gallery/corporate-fun-events/big-img/24.jpg"
         ></img>
       </>
     );
