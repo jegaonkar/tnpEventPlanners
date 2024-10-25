@@ -5,7 +5,7 @@ export default class AddressImg extends Component {
     const theme = this.props.theme;
     return (
       <>
-        <img src="https://grandfestive.com/img/grand-festive.jpg"></img>
+        <img src="https://i.ibb.co/XsDBjVg/Location-map.png"></img>
       </>
     );
   }

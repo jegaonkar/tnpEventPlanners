@@ -188,7 +188,7 @@ const certifications = {
     {
       title: "Corporate Event Planning",
       subtitle: "Planning for Meetings, Conferences, and Team Building Events",
-      logo_path: "Wedding_planning.jpg",
+      logo_path: "Corporate_planning.png",
       link: "/",
       alt_name: "Corporate Event Planning",
       color_code: "#123456",
@@ -196,7 +196,7 @@ const certifications = {
     {
       title: "Birthday Party Planning",
       subtitle: "Themed Birthday Parties for All Age Groups",
-      logo_path: "Wedding_planning.jpg",
+      logo_path: "Birthday_Planning.png",
       link: "/",
       alt_name: "Birthday Party Planning",
       color_code: "#FF5733",
@@ -204,7 +204,7 @@ const certifications = {
     {
       title: "Gala Dinner Planning",
       subtitle: "Luxury Gala Dinners and Charity Events",
-      logo_path: "Wedding_planning.jpg",
+      logo_path: "Gala_Planning.png",
       link: "/",
       alt_name: "Gala Dinner Planning",
       color_code: "#C70039",
@@ -212,7 +212,7 @@ const certifications = {
     {
       title: "Event Marketing",
       subtitle: "Promotional Strategies and Marketing for Your Events",
-      logo_path: "Wedding_planning.jpg",
+      logo_path: "Event_Marketing.png",
       link: "/",
       alt_name: "Event Marketing",
       color_code: "#581845",
@@ -220,7 +220,7 @@ const certifications = {
     {
       title: "Conference Planning",
       subtitle: "Professional Conference & Seminar Planning",
-      logo_path: "Wedding_planning.jpg",
+      logo_path: "Conference_Planning.png",
       link: "/",
       alt_name: "Conference Planning",
       color_code: "#900C3F",
@@ -376,7 +376,7 @@ const contactPageData = {
     locality: "Pune",
     country: "India",
     region: "maharashtra",
-    postalCode: "50009",
+    postalCode: "411052",
     avatar_image_path: "address_image.svg",
     location_map_link: "https://maps.app.goo.gl/tPSPKWxNy8tZqmSP6",
   },

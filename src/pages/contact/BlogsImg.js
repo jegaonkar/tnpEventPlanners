@@ -5,7 +5,7 @@ export default class BlogsImg extends Component {
     const theme = this.props.theme;
     return (
       <>
-        <img src="https://grandfestive.com/img/grand-festive.jpg"></img>
+        <img src="https://i.imgur.com/h1Qy1lh.png"></img>
       </>
     );
   }
