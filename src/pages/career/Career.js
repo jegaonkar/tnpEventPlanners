@@ -153,13 +153,6 @@ class Career extends Component {
         <div className="basic-experience">
           <Fade bottom duration={2000} distance="40px">
             <div className="experience-heading-div">
-              <div className="experience-heading-img-div">
-                {/* <img
-									src={require(`../../assests/images/${experience["header_image_path"]}`)}
-									alt=""
-								/> */}
-                <ExperienceImg theme={theme} />
-              </div>
               <div className="experience-heading-text-div">
                 <h1
                   className="experience-heading-text"
@@ -177,13 +170,25 @@ class Career extends Component {
                   className="experience-header-detail-text subTitle"
                   style={{ color: theme.secondaryText }}
                 >
-                  {experience["description"]}
+                  {experience["descriptionOne"]},
+                </p>
+                <p
+                  className="experience-header-detail-text subTitle"
+                  style={{ color: theme.secondaryText }}
+                >
+                  {experience["descriptionTwo"]},
+                </p>
+                <p
+                  className="experience-header-detail-text subTitle"
+                  style={{ color: theme.secondaryText }}
+                >
+                  {experience["descriptionThree"]},
                 </p>
               </div>
             </div>
           </Fade>
         </div>
-        {/* <ExperienceAccordion sections={experience["sections"]} theme={theme} /> */}
+        <ExperienceAccordion sections={experience["sections"]} theme={theme} />
         <Footer theme={this.props.theme} onToggle={this.props.onToggle} />
         <TopButton theme={this.props.theme} />
       </div>

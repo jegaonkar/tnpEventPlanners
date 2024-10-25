@@ -1,69 +1,99 @@
 {
   "data": [
     {
-      "login": "milligram",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16243913?v=4",
-      "__typename": "Organization"
+      "login": "wedding",
+      "avatarUrl": "https://img.freepik.com/free-photo/photorealistic-wedding-venue-with-intricate-decor-ornaments_23-2151481465.jpg?t=st=1729809594~exp=1729813194~hmac=f53ccdca2ea465bcb849aff2df6e7749b4b01b819c1b5cfaf8159fb82109e273&w=1060",
+      "__typename": "wedding"
     },
     {
-      "login": "kubernetes",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13629408?v=4",
-      "__typename": "Organization"
+      "login": "Birthday",
+      "avatarUrl": "https://th.bing.com/th/id/OIP.RbhDxmKO4GRcdqdsYfJnxgHaE8?pid=ImgDet&w=206&h=137&c=7&dpr=1.6",
+      "__typename": "birthday"
     },
     {
-      "login": "opencost",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/105945214?v=4",
-      "__typename": "Organization"
+      "login": "gala",
+      "avatarUrl": "https://th.bing.com/th/id/OIP.34fXXUMYs6TlsdJ754B5mwHaE7?w=263&h=180&c=7&r=0&o=5&dpr=1.6&pid=1.7",
+      "__typename": "gala"
     },
     {
-      "login": "ToolJet",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/82193554?v=4",
-      "__typename": "Organization"
+      "login": "Conference hall setup with modern lighting and seating",
+      "avatarUrl": "https://th.bing.com/th/id/OIP.u3sFnyitNmkXBDaMCBfwGgAAAA?rs=1&pid=ImgDetMain",
+      "__typename": "conference"
     },
     {
-      "login": "containers",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5874934?v=4",
-      "__typename": "Organization"
+      "login": "Corporate",
+      "avatarUrl": "https://i.pinimg.com/originals/59/f0/06/59f00623949c2ea8d267df56483736c5.jpg",
+      "__typename": "corporate"
     },
     {
-      "login": "illacloud",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/93245159?v=4",
-      "__typename": "Organization"
+      "login": "Birthday",
+      "avatarUrl": "https://th.bing.com/th/id/OIP.zamlEjPijEtaHuU44LNPuwHaE8?rs=1&pid=ImgDetMain",
+      "__typename": "birthday"
     },
     {
-      "login": "open-sauced",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/57568598?v=4",
-      "__typename": "Organization"
+      "login": "Gala night event with chandeliers and elegant seating",
+      "avatarUrl": "https://th.bing.com/th/id/OIP.KlVQLrF0B4b_lGRuGh6EQQHaFj?pid=ImgDet&rs=1",
+      "__typename": "gala"
     },
     {
-      "login": "keyval-dev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/84347062?v=4",
-      "__typename": "Organization"
+      "login": "Seminar setup with large presentation screens",
+      "avatarUrl": "https://th.bing.com/th/id/OIP.ZxciXqfqgAkMIfP2ewcpGgHaEK?pid=ImgDet&rs=1",
+      "__typename": "conference"
     },
     {
-      "login": "triggerdotdev",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/95297378?v=4",
-      "__typename": "Organization"
+      "login": "Outdoor wedding with rustic wooden decor",
+      "avatarUrl": "https://img.freepik.com/free-photo/beautiful-rustic-wedding-venue-outdoor_23-2151446797.jpg",
+      "__typename": "wedding"
     },
     {
-      "login": "arc53",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/103419759?v=4",
-      "__typename": "Organization"
+      "login": "Corporate seminar with professional lighting",
+      "avatarUrl": "https://img.freepik.com/free-photo/corporate-seminar-with-modern-lighting_23-2149384375.jpg",
+      "__typename": "corporate"
     },
     {
-      "login": "novuhq",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/77433905?v=4",
-      "__typename": "Organization"
+      "login": "Balloon-filled birthday party decor",
+      "avatarUrl": "https://img.freepik.com/free-photo/balloon-birthday-party-colorful-decor_23-2151376957.jpg",
+      "__typename": "birthday"
     },
     {
-      "login": "docker",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5429470?v=4",
-      "__typename": "Organization"
+      "login": "Luxury gala event with black-tie seating",
+      "avatarUrl": "https://th.bing.com/th/id/OIP.Wzt-L0CVZjYNifYThSaEywHaE8?pid=ImgDet&rs=1",
+      "__typename": "gala"
     },
     {
-      "login": "ArchGPT",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/139506573?v=4",
-      "__typename": "Organization"
+      "login": "Conference room with modern equipment",
+      "avatarUrl": "https://th.bing.com/th/id/OIP.kGJ_K2IKUEM2YLOwhgHEKwHaE8?pid=ImgDet&rs=1",
+      "__typename": "conference"
+    },
+    {
+      "login": "Beach wedding setup with floral archway",
+      "avatarUrl": "https://img.freepik.com/free-photo/beautiful-beach-wedding-venue_23-2149396727.jpg",
+      "__typename": "wedding"
+    },
+    {
+      "login": "Corporate award ceremony with stage setup",
+      "avatarUrl": "https://th.bing.com/th/id/OIP.YNEp9NZPMuxOWCb1D_m3PAHaHa?pid=ImgDet&rs=1",
+      "__typename": "corporate"
+    },
+    {
+      "login": "Children's birthday party with theme decorations",
+      "avatarUrl": "https://img.freepik.com/free-photo/children-birthday-party_23-2149326557.jpg",
+      "__typename": "birthday"
+    },
+    {
+      "login": "Grand gala dinner with red carpet entrance",
+      "avatarUrl": "https://th.bing.com/th/id/OIP.KswkOKjyMlFqR-3xSkT-GwHaE7?pid=ImgDet&rs=1",
+      "__typename": "gala"
+    },
+    {
+      "login": "High-tech conference with LED screens",
+      "avatarUrl": "https://th.bing.com/th/id/OIP.4mB5ZVpA9eFtXwbIBql_JQHaEK?pid=ImgDet&rs=1",
+      "__typename": "conference"
+    },
+    {
+      "login": "Garden wedding ceremony with floral arrangements",
+      "avatarUrl": "https://img.freepik.com/free-photo/beautiful-garden-wedding-arrangements_23-2151428314.jpg",
+      "__typename": "wedding"
     }
   ]
 }

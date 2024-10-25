@@ -1,12 +1,23 @@
-import React from "react";
+import React, { useState } from "react";
 import "./Greeting.css";
 import SocialMedia from "../../components/socialMedia/SocialMedia";
 import Button from "../../components/button/Button";
 import { greeting } from "../../portfolio";
 import { Fade } from "react-reveal";
 import FeelingProud from "./FeelingProud";
+import Popup from "./Popup/Popup";
 
 export default function Greeting(props) {
+  const [isPopupOpen, setIsPopupOpen] = useState(false);
+
+  const handleButtonClick = () => {
+    setIsPopupOpen(true);
+  };
+
+  const handleClosePopup = () => {
+    setIsPopupOpen(false);
+  };
+
   const theme = props.theme;
   return (
     <Fade bottom duration={2000} distance="40px">
@@ -30,13 +41,8 @@ export default function Greeting(props) {
               </p>
               <SocialMedia theme={theme} />
               <div className="portfolio-repo-btn-div">
-                <Button
-                  text="BOOK NOW"
-                  newTab={true}
-                  href={greeting.portfolio_repository}
-                  theme={theme}
-                  className="portfolio-repo-btn"
-                />
+                <button onClick={handleButtonClick}>Book Now</button>
+                {isPopupOpen && <Popup onClose={handleClosePopup} />}
               </div>
               {/* <div className="button-greeting-div">
               <Button text="Contact me" href="#contact" />
@@ -56,4 +62,4 @@ export default function Greeting(props) {
     </Fade>
   );
 }
-``
+``;

@@ -4,7 +4,6 @@ import Greeting from "../../containers/greeting/Greeting";
 import Skills from "../../containers/skills/Skills";
 import Footer from "../../components/footer/Footer";
 import TopButton from "../../components/topButton/TopButton";
-import HeroCard from "../../components/heroCard/heroCard";
 
 class Home extends Component {
   render() {
